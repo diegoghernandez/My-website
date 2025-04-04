@@ -8,14 +8,14 @@
 	"header": {
 		"from": "From: México",
 		"to": "To: You",
-		"about": "Self-taught and passionate about the web ecosystem. I design and develop solid and modern solutions, for all kind of needs: design, front, back, CI/CD; no matter the area where you need a solution, I can provide it.",
+		"about": "3 years of self-taught studying as a Software Developer. Develop web apps with complex infrastructure to understand the complete flow of development. Learn and adapt really fast to any environment, being able to provide an excellent and consistent value.",
 		"email": "Reply"
 	},
 	"portfolioTitle": "Portfolio",
 	"portfolio": [
 		{
 			"altImage": "Menu page to order pizza",
-			"description": "Web-based pizza ordering platform built with microservices. Leveraging cutting-edge technologies to create an intuitive platform for users to customize and order pizzas online.",
+			"description": "An unnecessary over engineer system to order pizza, backed up by a micro services architecture, accessible through a fast and interactive web page, a ci/cd workflow to test, build and deploy each one of the microservices, and making use of a multi cloud approach",
 			"specTech": "Technologies used:"
 		},
 		{

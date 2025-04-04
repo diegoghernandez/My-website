@@ -8,14 +8,14 @@
 	"header": {
 		"from": "Desde: México",
 		"to": "Para: Usted",
-		"about": "Autodidacta apasionado por el ecosistema web. Diseño y desarrollo soluciones sólidas y modernas, para todo tipo de necesidades: diseño, front, back, CI/CD; no importa el área donde requieras una solución, yo puedo brindarte la.",
+		"about": "3 años de estudio autodidacta como Desarrollador de Software. Desarrollo aplicaciones web con una infraestructura compleja para entender el flujo completo de desarrollo. Aprendo y me adapto rapidamente a cualquier ambiente, siendo capaz de proveer un excelente y consistente valor",
 		"email": "Responder"
 	},
 	"portfolioTitle": "Portafolio",
 	"portfolio": [
 		{
 			"altImage": "Página del menú para ordenar pizzas",
-			"description": "Plataforma web para hacer pedidos de pizza construido con micro servicios. Aprovechando tecnologías de vanguardia para crear una plataforma intuitiva para que los usuarios personalicen y pidan pizzas en línea.",
+			"description": "Un innecesario sistema sobre-ingenierizado para ordenar pizzas, respaldado por una arquitectura de microservicios, accesible a través de una página rápida e interactiva, un flujo ci/cd para probar, construir y desplegar cada uno de los microservicios, y haciendo uso de una aproximación multi cloud",
 			"specTech": "Tecnologías usadas:"
 		},
 		{
